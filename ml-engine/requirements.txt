@@ -1,0 +1,7 @@
+pandas
+pymongo
+implicit
+scipy
+fastapi
+uvicorn
+joblib
