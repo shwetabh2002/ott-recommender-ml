@@ -5,3 +5,5 @@ scipy
 fastapi
 uvicorn
 joblib
+python-dotenv
+pytz
